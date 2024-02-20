@@ -1,2 +1,3 @@
-# mkdocs-external-import
+# MKDocs External Import
+
 Import external markdown files into your documentation site.
